@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onit_Project", "Onit_Project\Onit_Project.csproj", "{50C5119C-5784-4A44-B111-E5A921AFCB5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50C5119C-5784-4A44-B111-E5A921AFCB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C5119C-5784-4A44-B111-E5A921AFCB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C5119C-5784-4A44-B111-E5A921AFCB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C5119C-5784-4A44-B111-E5A921AFCB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7417645B-5489-4124-BBD6-8FC381D65E04}
+	EndGlobalSection
+EndGlobal
